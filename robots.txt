@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ocieseedei.chemin.nl/sitemap.xml
